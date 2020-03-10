@@ -7,4 +7,7 @@
     <string name="local">Local:</string>
     <string name="salvar">Salvar</string>
     <string name="selecione">Selecione</string>
+    <string name="data1">Data1</string>
+    <string name="data2">Data2</string>
+
 </resources>
